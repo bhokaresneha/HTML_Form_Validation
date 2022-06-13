@@ -30,7 +30,7 @@ label, input, button {
     line-height: 1.5
 }
 label {
-    text-align: right;
+
     width: 30%; 
     margin-right: 2%;
 }
