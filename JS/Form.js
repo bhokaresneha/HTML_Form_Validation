@@ -26,3 +26,4 @@ tel.addEventListener('input', function(){
     telError.textContent= "";
     else telError.textContent = "Phone No Is Incorrect";
 });
+
