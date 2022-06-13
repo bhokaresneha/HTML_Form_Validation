@@ -6,7 +6,6 @@ const salary = document.querySelector('#salary');
             output.textContent = salary.value;
         });
 
-        
 // Validation For Name
 const text= document.querySelector('#text');
 const textError = document.querySelector('.text-error');
