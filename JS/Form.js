@@ -35,3 +35,4 @@ pwd.addEventListener('input', function(){
     pwdError.textContent= "";
     else pwdError.textContent = "Password Is Incorrect";
 });
+

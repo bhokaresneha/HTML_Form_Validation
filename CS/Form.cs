@@ -6,6 +6,7 @@ body {
     width: 100%; 
     max-width: 600px; 
     margin: 0px auto; 
+
     background-image:url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');
 }
 .headerContainer { 
@@ -29,8 +30,7 @@ label, input, button {
     line-height: 1.5
 }
 label {
-   
-   
+    text-align: right;
     width: 30%; 
     margin-right: 2%;
 }
